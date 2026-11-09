@@ -1,0 +1,16 @@
+{
+    "name": "Blackjack.Application",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4588486b071ba084dbacb685064b7c71"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Blackjack.Infrastructure",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4588486b071ba084dbacb685064b7c71",
+        "GUID:d1b7c409c790d7f489ac21357df37572"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
